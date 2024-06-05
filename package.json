@@ -1,0 +1,23 @@
+{
+  "name": "mv-security-header",
+  "version": "1.0.0",
+  "description": "An NPM package to add security headers in API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish-verma-au3/mv-security-header.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "manish verma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manish-verma-au3/mv-security-header/issues"
+  },
+  "homepage": "https://github.com/manish-verma-au3/mv-security-header#readme"
+}
